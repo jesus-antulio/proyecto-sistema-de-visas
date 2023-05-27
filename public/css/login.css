@@ -1,0 +1,30 @@
+#container{
+    padding-top: 5%;
+    text-align: center;
+    justify-content: center;
+    min-width: 100vh;
+}
+
+#container-login{
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-login{
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+#line{
+    border: 1px solid gray;
+    width: 1%;
+    height: 100%;
+}
+
+.espacio{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

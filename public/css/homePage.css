@@ -1,0 +1,25 @@
+.banner{
+    --opacidad-negro: 0.3;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(50, 50, 50, var(--opacidad-negro))), url('../img/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.banner-text{
+    color: whitesmoke;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 100px;
+}
+.banner-text h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.banner-text p{
+    font-size: 30px;
+    margin-top: 0;
+}
